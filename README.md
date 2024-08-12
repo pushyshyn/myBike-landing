@@ -13,3 +13,4 @@
 - **JavaScript**: For adding interactivity and handling user interactions.
 
 [**DEMOLINK**](https://pushyshyn.github.io/myBike-landing/)
+[**MOCKUPLINK**](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=BbwpOOGbT91PR078-0)
