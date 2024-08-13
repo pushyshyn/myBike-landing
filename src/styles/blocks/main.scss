@@ -2,6 +2,7 @@
   display: grid;
   row-gap: 92px;
   padding-block: 92px;
+   max-width: 1024px;
 
   @include content-padding-inline;
 
