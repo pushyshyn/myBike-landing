@@ -1,3 +1,8 @@
+[**DEMOLINK**](https://pushyshyn.github.io/myBike-landing/)
+
+[**MOCKUPLINK**](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=BbwpOOGbT91PR078-0)
+
+
 # Project Overview
 **myBike-landing** is a landing page project for a bike-related website. It showcases the features, benefits, and various models of bikes. The page is designed to be responsive, user-friendly, and visually appealing.
 
@@ -12,5 +17,24 @@
 - **SCSS**: For styling the webpage with a modular and maintainable approach, utilizing variables, mixins, and nesting.
 - **JavaScript**: For adding interactivity and handling user interactions.
 
-[**DEMOLINK**](https://pushyshyn.github.io/myBike-landing/)
-[**MOCKUPLINK**](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=BbwpOOGbT91PR078-0)
+
+# Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pushyshyn/myBike-landing.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd myBike-landing
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Start the development server:
+   ```bash
+   npm start  
+
